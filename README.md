@@ -5,7 +5,8 @@ Step to uload the Project on github by using these GitBash cmd
 
 git init
 git status
+git add.
 git commit -m "commit"
-git branch -M main
 git remote add origin " repo link"
+git branch -M main
 git push -u origin main
